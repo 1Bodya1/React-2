@@ -17,7 +17,7 @@ function Text() {
             diam ut leo convallis vel rutrum mauris ullamcorper. Vestibulum adipiscing
              erat sit amet justo luctus molestie.
         </p>
-        <button className="RM">Read More »</button>
+        <button className="RM">Read More</button>
         </div>
       </div>
     );

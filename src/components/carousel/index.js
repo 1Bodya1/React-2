@@ -4,7 +4,7 @@ import Carousel from 'react-material-ui-carousel';
 import './style.css';
 
 function MainCarousel () {
- const colors = ['Violet', 'DarkOrchid', 'SlateBlue','LightSkyBlue','SpringGreen','LightCoral'];
+ const colors = ['Green', 'DarkRed', 'MediumSpringGreen','Navy','Indigo','LightCoral'];
  return (
   <div className="carousel-wrap">
    <Carousel height={"450px"}>

@@ -14,7 +14,7 @@
 .menu-sub {
   position: absolute;
   top: 100%;
-  background-color: black;
+  background-color: rgb(155, 15, 15);
   color: white;
   width: 180px;
   display: none;
